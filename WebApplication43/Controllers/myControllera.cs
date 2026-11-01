@@ -6,11 +6,11 @@ namespace WebApplication43.Controllers
     {
         public IActionResult Index()
         {
-            string sa = "";
-            string sb = "";
-            string sc = "";
-            string sd = "";
-            string se = "";
+            string saa = "";
+            string sba = "";
+            string sca = "";
+            string sda = "";
+            string sea = "";
             return View();
         }
     }
