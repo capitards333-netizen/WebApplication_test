@@ -6,11 +6,11 @@ namespace WebApplication43.Controllers
     {
         public IActionResult Index()
         {
-            string sbb = "";
-            string scb = "";
-            string sdb = "";
-            string seb = "";
-            string sfb = "";
+            string sbbc = "";
+            string scbc = "";
+            string sdbc = "";
+            string sebc = "";
+            string sfbc = "";
             return View();
         }
     }
